@@ -1,0 +1,4 @@
+otufile	plugins/Rarefy/example/asv_abund.transpose.csv
+mapping	plugins/Rarefy/example/asv_map.csv
+tree	plugins/Rarefy/example/asv_tax.csv
+column	Description

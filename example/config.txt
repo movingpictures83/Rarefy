@@ -1,0 +1,2 @@
+Prefix plugins/Rarefy/example
+Plugin Rarefy inputfile parameters.txt outputfile Rarefy.csv
