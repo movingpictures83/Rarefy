@@ -4,6 +4,8 @@ library(ggplot2)
 library(ape)
 library(psadd)
 
+set.seed(1234)
+
 input <- function(inputfile) {
   parameters <<- read.table(inputfile, as.is=T);
   rownames(parameters) <<- parameters[,1]; 
